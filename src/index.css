@@ -1,0 +1,11 @@
+.bg-menu{
+
+  background-color: aquamarine;
+
+}
+
+#HeroInicio
+{
+  padding: 50px;
+  background: linear-gradient(90deg, #0d115c, #532265, #7e3d6e, #a15e7b, #bd838d, #d5a9a6, #ead1c9, #fff8f4);
+}
